@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name": "Saurabh Birari",
+    "occupation": "Computer Engineering",
+    "description": "Student at savitribai phule pune university.In my opinion The world of computers is growing at an un-recordable rate everyday, computers are the most influential tools in our lives, they are our present and future. Nothing on the planet can measure the exponential growth and excitement in the computing industry...",
+    "image": "profilepic.jpg",
+    "bio": "I'm good at taking accurate and right decisions with the help of our special creations called computers.",
+    "contactmessage": "If you have any query regarding Site Or any other issue, please feel free to Contact Me",
+    "email": "saurabhbirari.sb@gmail.com",
+    "phone": "+91-9834137977",
+    "address": {
+      "street": "NASHIK ROAD,",
+      "city": "NASHIK,",
+      "state": "MAHARASHTRA",
+      "zip": "422214."
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/saurabh.birari.100",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saurabh-birari-a16166215",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/saurabh._.sb",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/saurabhbirari",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage":"",
+    "education": [
+      {
+        "school": "Savitribai Pule Pune University @ SKNSITS LONAVALA",
+        "degree": "B.E(Computer Engineering)",
+        "graduated": "Pursuing 3rd Year",
+        "description": "I Entered college August 2019 and though I expect a change or transition from high school life to college, I didn't experience any difficulty adjusting. I chose Computer Engineering as my course because I was greatly interested in computers. I liked the course that I took, since I learned a lot of technical things, especially in programming. It is a difficult course, lots of math and logical thinking involved, but it is a course for a serious and studious individuals"
+      },
+      {
+        "school": "KTHM College,Nashik",
+        "degree": "11th and 12th Science",
+        "graduated": "March 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Lets Grow More",
+        "title": "Web Devlopment Intern",
+        "years": "January 2022 - Present",
+        "description": "I would Like To thank LGM for giving me opportunity to show my skills through the internship"
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "JAVA",
+        "level": "25%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Notes Universe Website",
+        "category": "My Internship Project",
+        "image": "Notes Universe.png",
+        "url": ""
+      },
+      {
+        "title":"My Resume Website",
+        "category":"Internship Project",
+        "image":"My Resume.png",
+        "url":""
+      }
+    ]
+  }
+}
+
